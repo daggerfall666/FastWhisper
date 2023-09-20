@@ -4,3 +4,4 @@ onnx__*
 decoder.*
 encoder.*
 .*/
+.DS_Store
